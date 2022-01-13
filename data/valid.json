@@ -1,0 +1,1539 @@
+{
+    "info": {
+        "year": "2021",
+        "version": "11",
+        "description": "Exported from roboflow.ai",
+        "contributor": "",
+        "url": "https://public.roboflow.ai/object-detection/undefined",
+        "date_created": "2021-12-31T10:29:01+00:00"
+    },
+    "licenses": [
+        {
+            "id": 1,
+            "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "name": "Public Domain"
+        }
+    ],
+    "categories": [
+        {
+            "id": 0,
+            "name": "chicken",
+            "supercategory": "none"
+        },
+        {
+            "id": 1,
+            "name": "rooster",
+            "supercategory": "chicken"
+        }
+    ],
+    "images": [
+        {
+            "id": 0,
+            "license": 1,
+            "file_name": "A-chicken-crossing-the-road_mp4-97_jpg.rf.1b2c3285a0a6f77ecd68958b82f573dc.jpg",
+            "height": 640,
+            "width": 640,
+            "date_captured": "2021-12-31T10:29:01+00:00"
+        },
+        {
+            "id": 1,
+            "license": 1,
+            "file_name": "chickens-1_mp4-13_jpg.rf.560da69570dff31f78d2c9c254fbee66.jpg",
+            "height": 640,
+            "width": 640,
+            "date_captured": "2021-12-31T10:29:01+00:00"
+        },
+        {
+            "id": 2,
+            "license": 1,
+            "file_name": "chickens-1_mp4-28_jpg.rf.54df6d5a2870596bb0558bea042ce4dd.jpg",
+            "height": 640,
+            "width": 640,
+            "date_captured": "2021-12-31T10:29:01+00:00"
+        },
+        {
+            "id": 3,
+            "license": 1,
+            "file_name": "A-chicken-crossing-the-road_mp4-47_jpg.rf.2c8bcdd9dd9327e0d41af4f53f98c0a1.jpg",
+            "height": 640,
+            "width": 640,
+            "date_captured": "2021-12-31T10:29:01+00:00"
+        },
+        {
+            "id": 4,
+            "license": 1,
+            "file_name": "A-chicken-crossing-the-road_mp4-35_jpg.rf.034512a87e41576f9b54bab041987718.jpg",
+            "height": 640,
+            "width": 640,
+            "date_captured": "2021-12-31T10:29:01+00:00"
+        },
+        {
+            "id": 5,
+            "license": 1,
+            "file_name": "A-chicken-crossing-the-road_mp4-93_jpg.rf.581a51ecc953507490baef7fb4d34bbe.jpg",
+            "height": 640,
+            "width": 640,
+            "date_captured": "2021-12-31T10:29:01+00:00"
+        },
+        {
+            "id": 6,
+            "license": 1,
+            "file_name": "A-chicken-crossing-the-road_mp4-92_jpg.rf.65882b979b546a615430759f3189d6ca.jpg",
+            "height": 640,
+            "width": 640,
+            "date_captured": "2021-12-31T10:29:01+00:00"
+        },
+        {
+            "id": 7,
+            "license": 1,
+            "file_name": "chickens-1_mp4-5_jpg.rf.52e9b3e1069f35b82546ab353acc4227.jpg",
+            "height": 640,
+            "width": 640,
+            "date_captured": "2021-12-31T10:29:01+00:00"
+        },
+        {
+            "id": 8,
+            "license": 1,
+            "file_name": "chickens-1_mp4-6_jpg.rf.4748528e9675a48aa340a1536bb48264.jpg",
+            "height": 640,
+            "width": 640,
+            "date_captured": "2021-12-31T10:29:01+00:00"
+        },
+        {
+            "id": 9,
+            "license": 1,
+            "file_name": "A-chicken-crossing-the-road_mp4-96_jpg.rf.00c33e89b4ccb6ac751d1c2b0d35fa08.jpg",
+            "height": 640,
+            "width": 640,
+            "date_captured": "2021-12-31T10:29:01+00:00"
+        },
+        {
+            "id": 10,
+            "license": 1,
+            "file_name": "A-chicken-crossing-the-road_mp4-11_jpg.rf.74eb19882a91bfc37f5181219d9daa98.jpg",
+            "height": 640,
+            "width": 640,
+            "date_captured": "2021-12-31T10:29:01+00:00"
+        },
+        {
+            "id": 11,
+            "license": 1,
+            "file_name": "A-chicken-crossing-the-road_mp4-33_jpg.rf.3df111b558457e2ef804980686dc3c82.jpg",
+            "height": 640,
+            "width": 640,
+            "date_captured": "2021-12-31T10:29:01+00:00"
+        },
+        {
+            "id": 12,
+            "license": 1,
+            "file_name": "A-chicken-crossing-the-road_mp4-43_jpg.rf.5e14f332fcbba0cf525280ebbb129667.jpg",
+            "height": 640,
+            "width": 640,
+            "date_captured": "2021-12-31T10:29:01+00:00"
+        },
+        {
+            "id": 13,
+            "license": 1,
+            "file_name": "A-chicken-crossing-the-road_mp4-89_jpg.rf.3acaf31206dcc0aecc7fe5a0609cfa30.jpg",
+            "height": 640,
+            "width": 640,
+            "date_captured": "2021-12-31T10:29:01+00:00"
+        },
+        {
+            "id": 14,
+            "license": 1,
+            "file_name": "A-chicken-crossing-the-road_mp4-18_jpg.rf.86aec1d2b60ad05447133fd74ad2f2ca.jpg",
+            "height": 640,
+            "width": 640,
+            "date_captured": "2021-12-31T10:29:01+00:00"
+        },
+        {
+            "id": 15,
+            "license": 1,
+            "file_name": "chickens-1_mp4-3_jpg.rf.8da6bd9a7753bb837b011b83229712bc.jpg",
+            "height": 640,
+            "width": 640,
+            "date_captured": "2021-12-31T10:29:01+00:00"
+        },
+        {
+            "id": 16,
+            "license": 1,
+            "file_name": "A-chicken-crossing-the-road_mp4-90_jpg.rf.69afcecea2da118486043babc842a673.jpg",
+            "height": 640,
+            "width": 640,
+            "date_captured": "2021-12-31T10:29:01+00:00"
+        },
+        {
+            "id": 17,
+            "license": 1,
+            "file_name": "A-chicken-crossing-the-road_mp4-41_jpg.rf.a5f558ba1ea1538e89765b74fe85d0d3.jpg",
+            "height": 640,
+            "width": 640,
+            "date_captured": "2021-12-31T10:29:01+00:00"
+        },
+        {
+            "id": 18,
+            "license": 1,
+            "file_name": "chickens-2_mp4-24_jpg.rf.6d2ed130c266d817b79ea377c045cffa.jpg",
+            "height": 640,
+            "width": 640,
+            "date_captured": "2021-12-31T10:29:01+00:00"
+        },
+        {
+            "id": 19,
+            "license": 1,
+            "file_name": "A-chicken-crossing-the-road_mp4-54_jpg.rf.6edcfb3b1d97fedab4f3ac8f32d9ed39.jpg",
+            "height": 640,
+            "width": 640,
+            "date_captured": "2021-12-31T10:29:01+00:00"
+        },
+        {
+            "id": 20,
+            "license": 1,
+            "file_name": "chickens-2_mp4-35_jpg.rf.20c741f958b8304aa566104bdf74d623.jpg",
+            "height": 640,
+            "width": 640,
+            "date_captured": "2021-12-31T10:29:01+00:00"
+        },
+        {
+            "id": 21,
+            "license": 1,
+            "file_name": "A-chicken-crossing-the-road_mp4-91_jpg.rf.b18a7c2601f7d42539df7113d8974cd8.jpg",
+            "height": 640,
+            "width": 640,
+            "date_captured": "2021-12-31T10:29:01+00:00"
+        },
+        {
+            "id": 22,
+            "license": 1,
+            "file_name": "A-chicken-crossing-the-road_mp4-98_jpg.rf.cd081e770f12a6cec6a55ea2b9981e9d.jpg",
+            "height": 640,
+            "width": 640,
+            "date_captured": "2021-12-31T10:29:01+00:00"
+        },
+        {
+            "id": 23,
+            "license": 1,
+            "file_name": "A-chicken-crossing-the-road_mp4-88_jpg.rf.87dda10fa4f0652a91a7c941f3bb2e60.jpg",
+            "height": 640,
+            "width": 640,
+            "date_captured": "2021-12-31T10:29:01+00:00"
+        },
+        {
+            "id": 24,
+            "license": 1,
+            "file_name": "chickens-2_mp4-6_jpg.rf.fd348d3efb956ea423d71ed669e2f38d.jpg",
+            "height": 640,
+            "width": 640,
+            "date_captured": "2021-12-31T10:29:01+00:00"
+        },
+        {
+            "id": 25,
+            "license": 1,
+            "file_name": "chickens-2_mp4-33_jpg.rf.ca8e40c820ff81d3463d959e7ee53d19.jpg",
+            "height": 640,
+            "width": 640,
+            "date_captured": "2021-12-31T10:29:01+00:00"
+        },
+        {
+            "id": 26,
+            "license": 1,
+            "file_name": "A-chicken-crossing-the-road_mp4-95_jpg.rf.f49999cddee42867b6e2b3062d541a21.jpg",
+            "height": 640,
+            "width": 640,
+            "date_captured": "2021-12-31T10:29:01+00:00"
+        },
+        {
+            "id": 27,
+            "license": 1,
+            "file_name": "A-chicken-crossing-the-road_mp4-94_jpg.rf.a4095b1772cdf05212f885698ce2f4bc.jpg",
+            "height": 640,
+            "width": 640,
+            "date_captured": "2021-12-31T10:29:01+00:00"
+        },
+        {
+            "id": 28,
+            "license": 1,
+            "file_name": "A-chicken-crossing-the-road_mp4-1_jpg.rf.d75abcc9ac1490ca262a2220abb7c65c.jpg",
+            "height": 640,
+            "width": 640,
+            "date_captured": "2021-12-31T10:29:01+00:00"
+        },
+        {
+            "id": 29,
+            "license": 1,
+            "file_name": "chickens-2_mp4-1_jpg.rf.930f5c049bdc79df0ea571a3487c551f.jpg",
+            "height": 640,
+            "width": 640,
+            "date_captured": "2021-12-31T10:29:01+00:00"
+        },
+        {
+            "id": 30,
+            "license": 1,
+            "file_name": "chickens-1_mp4-9_jpg.rf.f986381484e7605f81fc8045c0d9c0eb.jpg",
+            "height": 640,
+            "width": 640,
+            "date_captured": "2021-12-31T10:29:01+00:00"
+        },
+        {
+            "id": 31,
+            "license": 1,
+            "file_name": "chickens-2_mp4-4_jpg.rf.b5486727b9c7c064a22eae54f7cddcd6.jpg",
+            "height": 640,
+            "width": 640,
+            "date_captured": "2021-12-31T10:29:01+00:00"
+        },
+        {
+            "id": 32,
+            "license": 1,
+            "file_name": "A-chicken-crossing-the-road_mp4-23_jpg.rf.e6dee494d8ec9a0f221fccbb9caf9705.jpg",
+            "height": 640,
+            "width": 640,
+            "date_captured": "2021-12-31T10:29:01+00:00"
+        },
+        {
+            "id": 33,
+            "license": 1,
+            "file_name": "chickens-2_mp4-32_jpg.rf.d5a611bea800dda73c449e21c7daa038.jpg",
+            "height": 640,
+            "width": 640,
+            "date_captured": "2021-12-31T10:29:01+00:00"
+        },
+        {
+            "id": 34,
+            "license": 1,
+            "file_name": "chickens-2_mp4-26_jpg.rf.cb9cde23c0661d66e09e633a039ebb59.jpg",
+            "height": 640,
+            "width": 640,
+            "date_captured": "2021-12-31T10:29:01+00:00"
+        },
+        {
+            "id": 35,
+            "license": 1,
+            "file_name": "A-chicken-crossing-the-road_mp4-49_jpg.rf.e62d22f84990fa4ac32ff44c9b7347ab.jpg",
+            "height": 640,
+            "width": 640,
+            "date_captured": "2021-12-31T10:29:01+00:00"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 0,
+            "image_id": 0,
+            "category_id": 1,
+            "bbox": [
+                549,
+                231,
+                50,
+                55
+            ],
+            "area": 2750,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 1,
+            "image_id": 1,
+            "category_id": 1,
+            "bbox": [
+                419,
+                92,
+                70,
+                203
+            ],
+            "area": 14210,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 2,
+            "image_id": 1,
+            "category_id": 1,
+            "bbox": [
+                275,
+                68,
+                130,
+                278
+            ],
+            "area": 36140,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 3,
+            "image_id": 1,
+            "category_id": 1,
+            "bbox": [
+                149,
+                202,
+                121,
+                336
+            ],
+            "area": 40656,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 4,
+            "image_id": 1,
+            "category_id": 1,
+            "bbox": [
+                449,
+                297,
+                41,
+                166
+            ],
+            "area": 6806,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 5,
+            "image_id": 1,
+            "category_id": 1,
+            "bbox": [
+                237,
+                191,
+                253,
+                447
+            ],
+            "area": 113091,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 6,
+            "image_id": 2,
+            "category_id": 1,
+            "bbox": [
+                457,
+                204,
+                32,
+                53
+            ],
+            "area": 1696,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 7,
+            "image_id": 2,
+            "category_id": 1,
+            "bbox": [
+                162,
+                198,
+                225,
+                150
+            ],
+            "area": 33750,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 8,
+            "image_id": 2,
+            "category_id": 1,
+            "bbox": [
+                251,
+                182,
+                239,
+                235
+            ],
+            "area": 56165,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 9,
+            "image_id": 2,
+            "category_id": 1,
+            "bbox": [
+                255,
+                223,
+                146,
+                386
+            ],
+            "area": 56356,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 10,
+            "image_id": 2,
+            "category_id": 1,
+            "bbox": [
+                149,
+                311,
+                134,
+                328
+            ],
+            "area": 43952,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 11,
+            "image_id": 2,
+            "category_id": 1,
+            "bbox": [
+                339,
+                402,
+                150,
+                237
+            ],
+            "area": 35550,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 12,
+            "image_id": 3,
+            "category_id": 1,
+            "bbox": [
+                230,
+                255,
+                71,
+                66
+            ],
+            "area": 4686,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 13,
+            "image_id": 4,
+            "category_id": 1,
+            "bbox": [
+                116,
+                270,
+                67,
+                61
+            ],
+            "area": 4087,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 14,
+            "image_id": 5,
+            "category_id": 1,
+            "bbox": [
+                562,
+                234,
+                46,
+                54
+            ],
+            "area": 2484,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 15,
+            "image_id": 6,
+            "category_id": 1,
+            "bbox": [
+                565,
+                236,
+                54,
+                57
+            ],
+            "area": 3078,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 16,
+            "image_id": 7,
+            "category_id": 1,
+            "bbox": [
+                407,
+                22,
+                83,
+                92
+            ],
+            "area": 7636,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 17,
+            "image_id": 7,
+            "category_id": 1,
+            "bbox": [
+                363,
+                36,
+                126,
+                226
+            ],
+            "area": 28476,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 18,
+            "image_id": 7,
+            "category_id": 1,
+            "bbox": [
+                164,
+                114,
+                237,
+                252
+            ],
+            "area": 59724,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 19,
+            "image_id": 7,
+            "category_id": 1,
+            "bbox": [
+                236,
+                147,
+                252,
+                418
+            ],
+            "area": 105336,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 20,
+            "image_id": 7,
+            "category_id": 1,
+            "bbox": [
+                449,
+                291,
+                41,
+                154
+            ],
+            "area": 6314,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 21,
+            "image_id": 8,
+            "category_id": 1,
+            "bbox": [
+                405,
+                18,
+                84,
+                105
+            ],
+            "area": 8820,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 22,
+            "image_id": 8,
+            "category_id": 1,
+            "bbox": [
+                353,
+                43,
+                136,
+                214
+            ],
+            "area": 29104,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 23,
+            "image_id": 8,
+            "category_id": 1,
+            "bbox": [
+                184,
+                114,
+                205,
+                261
+            ],
+            "area": 53505,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 24,
+            "image_id": 8,
+            "category_id": 1,
+            "bbox": [
+                261,
+                146,
+                226,
+                418
+            ],
+            "area": 94468,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 25,
+            "image_id": 8,
+            "category_id": 1,
+            "bbox": [
+                453,
+                287,
+                37,
+                156
+            ],
+            "area": 5772,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 26,
+            "image_id": 9,
+            "category_id": 1,
+            "bbox": [
+                542,
+                234,
+                49,
+                54
+            ],
+            "area": 2646,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 27,
+            "image_id": 10,
+            "category_id": 1,
+            "bbox": [
+                0,
+                303,
+                28,
+                53
+            ],
+            "area": 1484,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 28,
+            "image_id": 11,
+            "category_id": 1,
+            "bbox": [
+                96,
+                273,
+                69,
+                61
+            ],
+            "area": 4209,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 29,
+            "image_id": 12,
+            "category_id": 1,
+            "bbox": [
+                187,
+                247,
+                61,
+                68
+            ],
+            "area": 4148,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 30,
+            "image_id": 13,
+            "category_id": 1,
+            "bbox": [
+                540,
+                235,
+                59,
+                58
+            ],
+            "area": 3422,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 31,
+            "image_id": 14,
+            "category_id": 1,
+            "bbox": [
+                24,
+                287,
+                69,
+                61
+            ],
+            "area": 4209,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 32,
+            "image_id": 15,
+            "category_id": 1,
+            "bbox": [
+                384,
+                26,
+                72,
+                102
+            ],
+            "area": 7344,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 33,
+            "image_id": 15,
+            "category_id": 1,
+            "bbox": [
+                429,
+                30,
+                60,
+                154
+            ],
+            "area": 9240,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 34,
+            "image_id": 15,
+            "category_id": 1,
+            "bbox": [
+                214,
+                100,
+                266,
+                168
+            ],
+            "area": 44688,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 35,
+            "image_id": 15,
+            "category_id": 1,
+            "bbox": [
+                451,
+                227,
+                38,
+                161
+            ],
+            "area": 6118,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 36,
+            "image_id": 15,
+            "category_id": 1,
+            "bbox": [
+                231,
+                138,
+                245,
+                340
+            ],
+            "area": 83300,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 37,
+            "image_id": 16,
+            "category_id": 1,
+            "bbox": [
+                545,
+                233,
+                61,
+                58
+            ],
+            "area": 3538,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 38,
+            "image_id": 17,
+            "category_id": 1,
+            "bbox": [
+                165,
+                256,
+                58,
+                63
+            ],
+            "area": 3654,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 39,
+            "image_id": 18,
+            "category_id": 1,
+            "bbox": [
+                362,
+                36,
+                95,
+                189
+            ],
+            "area": 17955,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 40,
+            "image_id": 18,
+            "category_id": 1,
+            "bbox": [
+                194,
+                120,
+                204,
+                348
+            ],
+            "area": 70992,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 41,
+            "image_id": 18,
+            "category_id": 1,
+            "bbox": [
+                333,
+                151,
+                166,
+                288
+            ],
+            "area": 47808,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 42,
+            "image_id": 18,
+            "category_id": 1,
+            "bbox": [
+                140,
+                320,
+                32,
+                319
+            ],
+            "area": 10208,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 43,
+            "image_id": 18,
+            "category_id": 1,
+            "bbox": [
+                243,
+                349,
+                256,
+                290
+            ],
+            "area": 74240,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 44,
+            "image_id": 19,
+            "category_id": 1,
+            "bbox": [
+                237,
+                240,
+                92,
+                80
+            ],
+            "area": 7360,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 45,
+            "image_id": 20,
+            "category_id": 1,
+            "bbox": [
+                306,
+                206,
+                70,
+                118
+            ],
+            "area": 8260,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 46,
+            "image_id": 20,
+            "category_id": 1,
+            "bbox": [
+                150,
+                296,
+                111,
+                160
+            ],
+            "area": 17760,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 47,
+            "image_id": 20,
+            "category_id": 1,
+            "bbox": [
+                234,
+                288,
+                216,
+                340
+            ],
+            "area": 73440,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 48,
+            "image_id": 20,
+            "category_id": 1,
+            "bbox": [
+                441,
+                368,
+                59,
+                252
+            ],
+            "area": 14868,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 49,
+            "image_id": 20,
+            "category_id": 1,
+            "bbox": [
+                140,
+                353,
+                69,
+                286
+            ],
+            "area": 19734,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 50,
+            "image_id": 21,
+            "category_id": 1,
+            "bbox": [
+                552,
+                236,
+                49,
+                56
+            ],
+            "area": 2744,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 51,
+            "image_id": 22,
+            "category_id": 1,
+            "bbox": [
+                551,
+                232,
+                48,
+                53
+            ],
+            "area": 2544,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 52,
+            "image_id": 23,
+            "category_id": 1,
+            "bbox": [
+                533,
+                236,
+                73,
+                61
+            ],
+            "area": 4453,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 53,
+            "image_id": 24,
+            "category_id": 1,
+            "bbox": [
+                299,
+                0,
+                200,
+                552
+            ],
+            "area": 110400,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 54,
+            "image_id": 24,
+            "category_id": 1,
+            "bbox": [
+                272,
+                77,
+                154,
+                400
+            ],
+            "area": 61600,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 55,
+            "image_id": 24,
+            "category_id": 1,
+            "bbox": [
+                140,
+                189,
+                39,
+                310
+            ],
+            "area": 12090,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 56,
+            "image_id": 24,
+            "category_id": 1,
+            "bbox": [
+                140,
+                134,
+                214,
+                440
+            ],
+            "area": 94160,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 57,
+            "image_id": 25,
+            "category_id": 1,
+            "bbox": [
+                219,
+                253,
+                204,
+                268
+            ],
+            "area": 54672,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 58,
+            "image_id": 25,
+            "category_id": 1,
+            "bbox": [
+                286,
+                179,
+                197,
+                438
+            ],
+            "area": 86286,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 59,
+            "image_id": 25,
+            "category_id": 1,
+            "bbox": [
+                393,
+                343,
+                107,
+                271
+            ],
+            "area": 28997,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 60,
+            "image_id": 25,
+            "category_id": 1,
+            "bbox": [
+                140,
+                334,
+                122,
+                305
+            ],
+            "area": 37210,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 61,
+            "image_id": 26,
+            "category_id": 1,
+            "bbox": [
+                536,
+                233,
+                49,
+                54
+            ],
+            "area": 2646,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 62,
+            "image_id": 27,
+            "category_id": 1,
+            "bbox": [
+                545,
+                233,
+                58,
+                56
+            ],
+            "area": 3248,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 63,
+            "image_id": 29,
+            "category_id": 1,
+            "bbox": [
+                317,
+                7,
+                63,
+                255
+            ],
+            "area": 16065,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 64,
+            "image_id": 29,
+            "category_id": 1,
+            "bbox": [
+                333,
+                0,
+                166,
+                498
+            ],
+            "area": 82668,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 65,
+            "image_id": 29,
+            "category_id": 1,
+            "bbox": [
+                149,
+                139,
+                244,
+                464
+            ],
+            "area": 113216,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 66,
+            "image_id": 29,
+            "category_id": 1,
+            "bbox": [
+                140,
+                148,
+                69,
+                463
+            ],
+            "area": 31947,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 67,
+            "image_id": 29,
+            "category_id": 1,
+            "bbox": [
+                435,
+                223,
+                64,
+                358
+            ],
+            "area": 22912,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 68,
+            "image_id": 30,
+            "category_id": 1,
+            "bbox": [
+                411,
+                68,
+                78,
+                185
+            ],
+            "area": 14430,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 69,
+            "image_id": 30,
+            "category_id": 1,
+            "bbox": [
+                296,
+                102,
+                172,
+                181
+            ],
+            "area": 31132,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 70,
+            "image_id": 30,
+            "category_id": 1,
+            "bbox": [
+                149,
+                148,
+                206,
+                329
+            ],
+            "area": 67774,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 71,
+            "image_id": 30,
+            "category_id": 1,
+            "bbox": [
+                455,
+                339,
+                34,
+                117
+            ],
+            "area": 3978,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 72,
+            "image_id": 30,
+            "category_id": 1,
+            "bbox": [
+                264,
+                195,
+                214,
+                441
+            ],
+            "area": 94374,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 73,
+            "image_id": 31,
+            "category_id": 1,
+            "bbox": [
+                327,
+                62,
+                93,
+                228
+            ],
+            "area": 21204,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 74,
+            "image_id": 31,
+            "category_id": 1,
+            "bbox": [
+                361,
+                103,
+                138,
+                435
+            ],
+            "area": 60030,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 75,
+            "image_id": 31,
+            "category_id": 1,
+            "bbox": [
+                140,
+                167,
+                85,
+                392
+            ],
+            "area": 33320,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 76,
+            "image_id": 31,
+            "category_id": 1,
+            "bbox": [
+                164,
+                164,
+                219,
+                455
+            ],
+            "area": 99645,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 77,
+            "image_id": 32,
+            "category_id": 1,
+            "bbox": [
+                45,
+                282,
+                47,
+                67
+            ],
+            "area": 3149,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 78,
+            "image_id": 33,
+            "category_id": 1,
+            "bbox": [
+                140,
+                324,
+                120,
+                83
+            ],
+            "area": 9960,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 79,
+            "image_id": 33,
+            "category_id": 1,
+            "bbox": [
+                260,
+                245,
+                113,
+                295
+            ],
+            "area": 33335,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 80,
+            "image_id": 33,
+            "category_id": 1,
+            "bbox": [
+                341,
+                180,
+                159,
+                428
+            ],
+            "area": 68052,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 81,
+            "image_id": 33,
+            "category_id": 1,
+            "bbox": [
+                408,
+                249,
+                91,
+                380
+            ],
+            "area": 34580,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 82,
+            "image_id": 33,
+            "category_id": 1,
+            "bbox": [
+                140,
+                244,
+                156,
+                395
+            ],
+            "area": 61620,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 83,
+            "image_id": 34,
+            "category_id": 1,
+            "bbox": [
+                425,
+                385,
+                75,
+                254
+            ],
+            "area": 19050,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 84,
+            "image_id": 34,
+            "category_id": 1,
+            "bbox": [
+                301,
+                0,
+                178,
+                244
+            ],
+            "area": 43432,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 85,
+            "image_id": 34,
+            "category_id": 1,
+            "bbox": [
+                141,
+                53,
+                359,
+                586
+            ],
+            "area": 210374,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 86,
+            "image_id": 35,
+            "category_id": 1,
+            "bbox": [
+                245,
+                251,
+                64,
+                68
+            ],
+            "area": 4352,
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    ]
+}

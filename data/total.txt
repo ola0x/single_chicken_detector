@@ -1,0 +1,6 @@
+chicken 0
+rooster 1008
+
+| category   | AP   | category   | AP     |
+|:-----------|:-----|:-----------|:-------|
+| chicken    | nan  | rooster    | 51.433 |
